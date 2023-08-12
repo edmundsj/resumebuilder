@@ -28,4 +28,6 @@ Why is this program written in go? Mostly because go is a fun language I wanted 
 ## TODO
 - Add markdown support 
 - Add HTML support
+- Add google docs support
+- Add word docs support
 
